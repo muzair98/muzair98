@@ -1,0 +1,3 @@
+#wpforo #wpforo-wrap .wpfl-4 .wpf-parent-post .wpf-right .wpf-content-head-bottom .wpf-author-joined {
+     display:none;
+}
